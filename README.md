@@ -2,7 +2,7 @@
 this repository is only a mirror of multiple blacklists
 
 ## 安裝說明
-
+[for 懶人](#Restore.txt)
 開啟 uBlock Origin 的 dashboard
 
 ![Mull](https://github.com/proton-penguin/static-lists/assets/142492829/29ef5d5f-51e0-41ec-bc47-606b04f0810b)
@@ -74,6 +74,7 @@ https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/raw/master/
 
 
 # For 懶人
+###### Restore.txt
 ![image](https://github.com/proton-penguin/static-lists/assets/142492829/20d46b3f-22fe-481a-bc14-6541e166c156)
 選 Restore from file
 
