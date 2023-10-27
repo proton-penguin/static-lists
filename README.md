@@ -11,7 +11,8 @@ this repository is only a mirror of multiple blacklists
 
 ![Mull](https://github.com/proton-penguin/static-lists/assets/142492829/29c9b7cf-4825-4f14-a7f9-24906f8ffed6)
 
-
+uBlock Origin 支援 AdGuard 的 lists，在網路上找到的 list 皆可以此方式安裝
+此外，blacklists 會自動更新，請允序 Auto-update filter lists 選項
 
 # 清單列表
 ## 隱藏 Youtube Shorts
@@ -21,3 +22,52 @@ this repository is only a mirror of multiple blacklists
 https://raw.githubusercontent.com/proton-penguin/static-lists/main/ytshorts.txt
 ```
 
+## 快門手的網站黑名單
+來自 [https://github.com/houboyjacky/](https://github.com/houboyjacky/)
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/CustomBlockForAdguardHome.txt
+```
+![image](https://github.com/proton-penguin/static-lists/assets/142492829/c9c4dc9f-4159-4559-8587-681665a6b859)
+
+### ScamSiteForPetScams.txt
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/ScamSiteForPetScams.txt
+```
+
+### ScamSiteGetFromDcard.txt
+
+取自台灣網站Dcard，從作者的文章中，取得的詐騙網址
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/ScamSiteGetFromDcard.txt
+```
+
+### ScamSiteGetFromGlobalAntiScamOrg.txt
+取自Global Anti Scam
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/ScamSiteGetFromGlobalAntiScamOrg.txt
+```
+
+### 165
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/ScamSiteGetFromTaiwan165.txt
+```
+
+### ScamSiteGetFromScamAdviserNewsletter.txt
+```
+https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/raw/master/ScamSiteGetFromScamAdviserNewsletter.txt
+```
+
+取自ScamAdviser電子報
+
+### ScamSiteGetFromFX110.txt
+取自FX110網站
+
+```
+https://raw.githubusercontent.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/master/ScamSiteGetFromFX110.txt
+```
+
+### ScamsSiteGetFromFB_TonyNey.txt
+取自FB社團網友
+```
+https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/raw/master/ScamsSiteGetFromFB_TonyNey.txt
+```
