@@ -2,7 +2,7 @@
 this repository is only a mirror of multiple blacklists
 
 ## 安裝說明
-- [for 懶人](#Restore.txt)
+- [for 懶人](#restoretxt)
 
 開啟 uBlock Origin 的 dashboard
 
