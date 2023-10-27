@@ -77,6 +77,7 @@ https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/raw/master/
 # For 懶人
 ###### Restore.txt
 ![image](https://github.com/proton-penguin/static-lists/assets/142492829/20d46b3f-22fe-481a-bc14-6541e166c156)
+
 選 Restore from file
 
 然後選擇[這個 txt 檔](https://github.com/proton-penguin/static-lists/releases/download/Restore/ubo.txt)
