@@ -2,7 +2,8 @@
 this repository is only a mirror of multiple blacklists
 
 ## 安裝說明
-[for 懶人](#Restore.txt)
+- [for 懶人](#Restore.txt)
+
 開啟 uBlock Origin 的 dashboard
 
 ![Mull](https://github.com/proton-penguin/static-lists/assets/142492829/29ef5d5f-51e0-41ec-bc47-606b04f0810b)
