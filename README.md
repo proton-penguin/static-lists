@@ -77,7 +77,7 @@ https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/raw/master/
 ![image](https://github.com/proton-penguin/static-lists/assets/142492829/20d46b3f-22fe-481a-bc14-6541e166c156)
 選 Restore from file
 
-然後選擇這個 txt 檔
+然後選擇[這個 txt 檔](https://raw.githubusercontent.com/proton-penguin/static-lists/main/ubo.txt)
+(按ctrl-S存檔)
 
-![image](https://github.com/proton-penguin/static-lists/assets/142492829/b4e6b9bc-dcf4-4df5-8216-fe41c6892117)
-
+注意原本設定會被覆蓋
